@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Planets</string>
+    <string name="second_fragment_label">Single Planet</string>
+</resources>
